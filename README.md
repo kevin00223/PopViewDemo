@@ -1,0 +1,3 @@
+# PopViewDemo
+防微信右上角的popView
+通过tableView实现, 解决了给tableView父试图添加了手势以后 点击tableViewCell不走didSelectRow的问题
